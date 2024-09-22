@@ -34,7 +34,7 @@ This repository contains Terraform code to deploy a scalable and highly availabl
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-repo/aws-terraform-deployment.git
+git clone https://github.com/Tareqmohamed/infra_tf.git
 cd aws-terraform-deployment
 ```
 ### 2. Update Variables
